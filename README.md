@@ -34,7 +34,7 @@ config:
       codec: lines
 ```
 
-The full list of [available configuration for the Helm Chart can be found in the `values.yaml` file](./values.yaml). You should refer to the [upstream Bento documentation](https://warpstreamlabs.github.io/bento/docs/configuration/about) for the configuration of your pipeline.
+The full list of [available configuration for the Helm Chart can be found in the `values.yaml` file](./charts/bento/values.yaml). You should refer to the [upstream Bento documentation](https://warpstreamlabs.github.io/bento/docs/configuration/about) for the configuration of your pipeline.
 
 ## Streams mode
 
