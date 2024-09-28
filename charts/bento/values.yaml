@@ -45,7 +45,7 @@ deployment:
 commonLabels: {}
 
 image:
-  repository: "jeffail/bento"
+  repository: "ghcr.io/warpstreamlabs/bento"
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
