@@ -14,7 +14,7 @@ helm repo add bento https://warpstreamlabs.github.io/bento-helm-charts
 helm repo update
 helm install bento/bento
 # OR
-helm upgrade --install bento oci://ghcr.io/warpstreamlabs/bento/helm --version 0.1.0
+helm upgrade --install bento oci://ghcr.io/warpstreamlabs/bento-helm/bento --version 0.1.0
 ```
 
 ## Configuration
